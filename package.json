@@ -1,0 +1,35 @@
+{
+  "name": "typescript-practice-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.stepstone.com:7999/~puchnd01/typescript-practice-api-server.git"
+  },
+  "author": "Daria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "morgan": "1.9.1",
+    "nodemon": "2.0.1"
+  },
+  "nodemonConfig": {
+    "restartable": "rs",
+    "ignore": [
+      "node_modules/**/node_modules"
+    ],
+    "delay": "2500",
+    "env": {
+      "NODE_ENV": "development",
+      "PORT": 4000
+    }
+  },
+  "devDependencies": {
+    "typescript": "3.7.3"
+  }
+}

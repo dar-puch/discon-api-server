@@ -1,0 +1,23 @@
+- do typescript-practice-api-server:
+	- stwórz
+	- dodaj expressa
+	- stwórz bazę danych
+		- stwórz plik json z danymi które twój serwer będzie serwował
+			- propozycja: umieść w nim kilkadziesiąt rekordów z faktycznej bazy danych z której do tej pory korzystałaś
+		- stwórz plik json z historią zapytań
+			- na początku pusty
+	- napisz endpointy
+		- get data
+			- ma zwracać zawartość twojej bazy danych (może być warunkowy, tzn. przyjmować parametr i zwracać tylko rekordy o danej nazwie czy ID)
+			- może działać jak ten które miałaś do tej pory (per artist, per label), tylko niech bierze dane z pliku json
+		- get history
+			- ma zwracać historię zapytań (to co do tej pory było w local storage)
+		- add to history
+			- ma zapisywać zapytanie (to co do tej pory zapisywało się w local storage)
+			- może być wołany z frontu albo może być wołany przez endpoint "get data"
+		- remove from history
+			- ma usuwać informację o danym zapytaniu z historii
+	- użyj paczki fs do odczytywania zawartości pliku w endpointach
+	- waliduj dane w endpointach (tak żeby np. nie można było usunąć nieistniejącego rekordu z historii zapytań)
+
+	https://api.discogs.com/database/search?${what}=${query}&key=OmCRcVUyDaPdkmtfZisk&secret=ITwNkHvKmnERqjmfsbZdTgJVWJvgBVVz

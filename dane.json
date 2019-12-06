@@ -1,0 +1,367 @@
+{
+  "records": [
+    {
+      "style": [
+        "Hard Rock",
+        "Punk",
+        "Grunge"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+      "title": "Shafter - Shafter",
+      "artist": "Shafter",
+      "type": "release",
+      "format": [
+        "CDr"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Not On Label (Shafter Self-released)"
+      ],
+      "country": "France",
+      "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+      "catno": "SHAF/001/1",
+      "master_url": null,
+      "year": "2015",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Pop Rock"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+      "title": "Charlie Shafter Band - 17th & Chicago",
+      "artist": "Charlie Shafter Band",
+      "type": "release",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "label": [
+        "Smith Entertainment"
+      ],
+      "country": "US",
+      "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+      "catno": "SED 7081",
+      "master_url": null,
+      "year": "2008",
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "resource_url": "https://api.discogs.com/releases/13705111",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 13705111,
+      "formats": [
+        {
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ],
+          "name": "CD"
+        }
+      ]
+    },
+    {
+      "style": [],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+      "title": "Shafter High Concert Band - Shafter High School",
+      "artist": "Shafter High Concert Band",
+      "type": "release",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+      "community": {
+        "want": 3,
+        "have": 1
+      },
+      "label": [
+        "Century Custom Recording Service",
+        "Century Custom Recording Service"
+      ],
+      "country": "US",
+      "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+      "catno": "22157",
+      "master_url": null,
+      "year": "1965",
+      "genre": [
+        "Jazz",
+        "Pop",
+        "Classical"
+      ],
+      "resource_url": "https://api.discogs.com/releases/4628551",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 4628551,
+      "formats": [
+        {
+          "text": "Blue",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ],
+          "name": "Vinyl"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Abstract",
+        "Darkwave",
+        "Dungeon Synth",
+        "Minimal"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/_tPDVk3KkD7n2D6YPwdzeHAcZxI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10269680-1494426300-7983.jpeg.jpg",
+      "title": "Piernikowski* - No Fun",
+      "artist": "Piernikowski",
+      "type": "release",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "uri": "/Piernikowski-No-Fun/release/10269680",
+      "community": {
+        "want": 8,
+        "have": 46
+      },
+      "label": [
+        "Latarnia"
+      ],
+      "country": "Poland",
+      "cover_image": "https://img.discogs.com/Yyw2lje7Y39Dn9Ds6hNP2ofx3z0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10269680-1494426300-7983.jpeg.jpg",
+      "catno": "LA010",
+      "master_url": "https://api.discogs.com/masters/1281198",
+      "year": "2017",
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "resource_url": "https://api.discogs.com/releases/10269680",
+      "master_id": 1281198,
+      "format_quantity": 1,
+      "id": 10269680,
+      "formats": [
+        {
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ],
+          "name": "CD"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Experimental"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/q_r3kEL3sEFEtjDuWGku6EazdKw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12937641-1544908045-7001.jpeg.jpg",
+      "title": "Robert Piernikowski - Si\u0119 \u017begnaj",
+      "artist": "Piernikowski",
+      "type": "release",
+      "format": [
+        "CDr",
+        "Album",
+        "Limited Edition"
+      ],
+      "uri": "/Robert-Piernikowski-Si%C4%99-%C5%BBegnaj/release/12937641",
+      "community": {
+        "want": 6,
+        "have": 4
+      },
+      "label": [
+        "Few Quiet People"
+      ],
+      "country": "Poland",
+      "cover_image": "https://img.discogs.com/UWATStKaZ2LVRI-jGB5bzwWtbXk=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12937641-1544908045-7001.jpeg.jpg",
+      "catno": "FQP011/2012",
+      "master_url": null,
+      "year": "2012",
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "resource_url": "https://api.discogs.com/releases/12937641",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 12937641,
+      "formats": [
+        {
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ],
+          "name": "CDr"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Abstract",
+        "Darkwave",
+        "Dungeon Synth",
+        "Minimal"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/6B7HJ33Ap44HwrMGZHbhlvcx5-w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11260703-1512926472-4909.jpeg.jpg",
+      "title": "Piernikowski* - No Fun",
+      "artist": "Piernikowski",
+      "type": "release",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "uri": "/Piernikowski-No-Fun/release/11260703",
+      "community": {
+        "want": 14,
+        "have": 54
+      },
+      "label": [
+        "Latarnia"
+      ],
+      "country": "Poland",
+      "cover_image": "https://img.discogs.com/O3aSBFrd5pC3sbBCZvHChx4F_IA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11260703-1512926472-4909.jpeg.jpg",
+      "catno": "LAV010",
+      "master_url": "https://api.discogs.com/masters/1281198",
+      "year": "2017",
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "resource_url": "https://api.discogs.com/releases/11260703",
+      "master_id": 1281198,
+      "format_quantity": 1,
+      "id": 11260703,
+      "formats": [
+        {
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ],
+          "name": "Vinyl"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Abstract"
+      ],
+      "barcode": [
+        "5902860142133"
+      ],
+      "thumb": "https://img.discogs.com/O8MgErGLyRUa0Fg0mXyh5W6k-gg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14232315-1570369541-6983.png.jpg",
+      "title": "Piernikowski* - The Best Of Moje Getto",
+      "artist": "Piernikowski",
+      "type": "release",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "uri": "/Piernikowski-The-Best-Of-Moje-Getto/release/14232315",
+      "community": {
+        "want": 3,
+        "have": 18
+      },
+      "label": [
+        "Asfalt Records"
+      ],
+      "country": "Poland",
+      "cover_image": "https://img.discogs.com/NgjGHeKVWQfpj6fqPIya1tzY8-c=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14232315-1570369541-6983.png.jpg",
+      "catno": "AR-C171",
+      "master_url": null,
+      "year": "2019",
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "resource_url": "https://api.discogs.com/releases/14232315",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 14232315,
+      "formats": [
+        {
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ],
+          "name": "CD"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Abstract",
+        "Darkwave",
+        "Dungeon Synth",
+        "Minimal"
+      ],
+      "thumb": "https://img.discogs.com/_tPDVk3KkD7n2D6YPwdzeHAcZxI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10269680-1494426300-7983.jpeg.jpg",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "country": "Poland",
+      "barcode": [],
+      "uri": "/Piernikowski-No-Fun/master/1281198",
+      "master_url": "https://api.discogs.com/masters/1281198",
+      "label": [
+        "Latarnia"
+      ],
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "catno": "LA010",
+      "community": {
+        "want": 22,
+        "have": 100
+      },
+      "year": "2017",
+      "cover_image": "https://img.discogs.com/Yyw2lje7Y39Dn9Ds6hNP2ofx3z0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10269680-1494426300-7983.jpeg.jpg",
+      "title": "Piernikowski* - No Fun",
+      "artist": "Piernikowski",
+      "resource_url": "https://api.discogs.com/masters/1281198",
+      "master_id": 1281198,
+      "type": "master",
+      "id": 1281198
+    }
+  ]
+}
