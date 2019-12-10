@@ -18,6 +18,6 @@
 		- remove from history
 			- ma usuwać informację o danym zapytaniu z historii
 	- użyj paczki fs do odczytywania zawartości pliku w endpointach
-	- waliduj dane w endpointach (tak żeby np. nie można było usunąć nieistniejącego rekordu z historii zapytań)
+	- waliduj dane w endpointach (tak żeby np. nie można było usunąć nieistniejącego rekordu z historii zapytań) np przez user defined type guard
 
 	https://api.discogs.com/database/search?${what}=${query}&key=OmCRcVUyDaPdkmtfZisk&secret=ITwNkHvKmnERqjmfsbZdTgJVWJvgBVVz

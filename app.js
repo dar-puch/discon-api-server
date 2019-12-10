@@ -1,11 +1,13 @@
 const express = require('express');
 const fs = require('fs');
 // const body_parser = require('body-parser');
-const port = process.env.PORT;
+const port = process.env.PORT || 4000;
 const app = express();
 const dataPath = './dane.json';
 const historyPath = './history.json';
 const morgan = require('morgan');
+let cors = require('cors');
+app.use(cors());
 
 app.use(morgan('tiny'));
 app.use(express.json());
@@ -20,10 +22,11 @@ app.get("/data", (req, res) => {
     if (err) {
       throw err;
     }
-    const parsedArr = JSON.parse(data).records;
+    const parsedArr = JSON.parse(data).releases;
+
     if (Object.keys(req.query).length !== 0) {
-      let artist = req.query.artist;
-      const artistResult = parsedArr.filter(record => record.artist.includes(artist));
+      let qArtist = req.query.artist;
+      const artistResult = parsedArr.filter(release => release.artist.toLowerCase().includes(qArtist.toLowerCase()));
       if (artistResult) {
         res.json(artistResult);
       } else {
@@ -31,7 +34,7 @@ app.get("/data", (req, res) => {
       }
     }
     else {
-      res.send(parsedArr);
+      res.json(parsedArr);
     }
   });
 
@@ -43,7 +46,7 @@ app.get("/data/:id", (req, res) => {
     if (err) {
       throw err;
     };
-    const parsedArr = JSON.parse(data).records;
+    const parsedArr = JSON.parse(data).releases;
     const recordResult = parsedArr.find(record => record.id == recId);
     if (recordResult) {
       res.json(recordResult);
@@ -87,12 +90,12 @@ app.delete("/history/:id", (req, res) => {
       throw err;
     } else {
       const parsedArr = JSON.parse(data).history;
-      const filtered_list = parsedArr.filter(history => history.id !== historyId);
+      const filtered_list = parsedArr.filter(history => history !== historyId);
       parsedArr = filtered_list;
       if (historyResult) {
         json = JSON.stringify(historyResult);
         fs.writeFile('./history.json', json, 'utf8', () => {
-          res.json('deleted');
+          res.send('deleted');
         });
       } else {
         res.json({ message: `item ${itemId} doesn't exist` })
@@ -102,9 +105,6 @@ app.delete("/history/:id", (req, res) => {
   });
 
 });
-
-
-
 
 
 app.listen(port, () => {
