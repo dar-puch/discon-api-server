@@ -1,7 +1,1438 @@
-{
-  "history": [
+[
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "2a33d6d0-1d24-11ea-beef-f12e094dc8e6",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "2a33d6d0-1d24-11ea-beef-f12e094dc8e6",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  [
     {
-      "date": "2019-12-5",
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
       "parameters": {
         "queryString": "shafter",
         "what": "artist"
@@ -16,6 +1447,7 @@
           "barcode": [],
           "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
           "title": "Shafter - Shafter",
+          "artist": "Shafter",
           "type": "release",
           "format": [
             "CDr"
@@ -54,6 +1486,7 @@
           "barcode": [],
           "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
           "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
           "type": "release",
           "format": [
             "CD",
@@ -98,6 +1531,1294 @@
           "barcode": [],
           "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
           "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "2a33d6d0-1d24-11ea-beef-f12e094dc8e6",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "ca808240-1d20-11ea-b1d8-09e297e9a402",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
+          "type": "release",
+          "format": [
+            "Vinyl",
+            "LP"
+          ],
+          "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+          "community": {
+            "want": 3,
+            "have": 1
+          },
+          "label": [
+            "Century Custom Recording Service",
+            "Century Custom Recording Service"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "catno": "22157",
+          "master_url": null,
+          "year": "1965",
+          "genre": [
+            "Jazz",
+            "Pop",
+            "Classical"
+          ],
+          "resource_url": "https://api.discogs.com/releases/4628551",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 4628551,
+          "formats": [
+            {
+              "text": "Blue",
+              "qty": "1",
+              "descriptions": [
+                "LP"
+              ],
+              "name": "Vinyl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "queryId": "2a33d6d0-1d24-11ea-beef-f12e094dc8e6",
+      "date": "2019-12-12",
+      "parameters": {
+        "queryString": "shafter",
+        "what": "artist"
+      },
+      "result": [
+        {
+          "style": [
+            "Hard Rock",
+            "Punk",
+            "Grunge"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "title": "Shafter - Shafter",
+          "artist": "Shafter",
+          "type": "release",
+          "format": [
+            "CDr"
+          ],
+          "uri": "/Shafter-Shafter/release/7596389",
+          "community": {
+            "want": 0,
+            "have": 1
+          },
+          "label": [
+            "Not On Label (Shafter Self-released)"
+          ],
+          "country": "France",
+          "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+          "catno": "SHAF/001/1",
+          "master_url": null,
+          "year": "2015",
+          "genre": [
+            "Rock"
+          ],
+          "resource_url": "https://api.discogs.com/releases/7596389",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 7596389,
+          "formats": [
+            {
+              "name": "CDr",
+              "qty": "1"
+            }
+          ]
+        },
+        {
+          "style": [
+            "Pop Rock"
+          ],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "title": "Charlie Shafter Band - 17th & Chicago",
+          "artist": "Charlie Shafter Band",
+          "type": "release",
+          "format": [
+            "CD",
+            "Album",
+            "Stereo"
+          ],
+          "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+          "community": {
+            "want": 0,
+            "have": 2
+          },
+          "label": [
+            "Smith Entertainment"
+          ],
+          "country": "US",
+          "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+          "catno": "SED 7081",
+          "master_url": null,
+          "year": "2008",
+          "genre": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+          ],
+          "resource_url": "https://api.discogs.com/releases/13705111",
+          "master_id": 0,
+          "format_quantity": 1,
+          "id": 13705111,
+          "formats": [
+            {
+              "qty": "1",
+              "descriptions": [
+                "Album",
+                "Stereo"
+              ],
+              "name": "CD"
+            }
+          ]
+        },
+        {
+          "style": [],
+          "barcode": [],
+          "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+          "title": "Shafter High Concert Band - Shafter High School",
+          "artist": "Shafter High Concert Band",
           "type": "release",
           "format": [
             "Vinyl",
@@ -139,5 +2860,729 @@
         }
       ]
     }
-  ]
-}
+  ],
+  {
+    "queryId": "d27932f0-1d32-11ea-99c4-fd7cdf135eba",
+    "date": "2019-12-12",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "7c22de30-1d3a-11ea-86ac-5f05a10d0ff5",
+    "date": "2019-12-13",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "061e0530-1d3e-11ea-a92a-f72105a6d44a",
+    "date": "2019-12-13",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "2bcb40e0-1d3e-11ea-ad88-d5151c273482",
+    "date": "2019-12-13",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "queryId": "34fcebf0-1d3e-11ea-ad88-d5151c273482",
+    "date": "2019-12-13",
+    "parameters": {
+      "queryString": "piornikowski",
+      "what": "artist"
+    },
+    "result": []
+  },
+  {
+    "queryId": "3c8ddf50-1d3e-11ea-ad88-d5151c273482",
+    "date": "2019-12-13",
+    "parameters": {
+      "queryString": "shafter",
+      "what": "artist"
+    },
+    "result": [
+      {
+        "style": [
+          "Hard Rock",
+          "Punk",
+          "Grunge"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/T3aw8xKJnBVGBG6Rrr16Lxc5FL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "title": "Shafter - Shafter",
+        "artist": "Shafter",
+        "type": "release",
+        "format": [
+          "CDr"
+        ],
+        "uri": "/Shafter-Shafter/release/7596389",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "label": [
+          "Not On Label (Shafter Self-released)"
+        ],
+        "country": "France",
+        "cover_image": "https://img.discogs.com/OJOK1ogJE8_xWozBA5O2S8SRA8s=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7596389-1444798703-8589.jpeg.jpg",
+        "catno": "SHAF/001/1",
+        "master_url": null,
+        "year": "2015",
+        "genre": [
+          "Rock"
+        ],
+        "resource_url": "https://api.discogs.com/releases/7596389",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 7596389,
+        "formats": [
+          {
+            "name": "CDr",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "style": [
+          "Pop Rock"
+        ],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/pg4pDy9SLYfgDVH-0wUBzpvEtE0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "title": "Charlie Shafter Band - 17th & Chicago",
+        "artist": "Charlie Shafter Band",
+        "type": "release",
+        "format": [
+          "CD",
+          "Album",
+          "Stereo"
+        ],
+        "uri": "/Charlie-Shafter-Band-17th-Chicago/release/13705111",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "label": [
+          "Smith Entertainment"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/b8hlWtkHuwSuJXR2iUq086xCX8Y=/fit-in/220x217/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13705111-1559401800-9263.jpeg.jpg",
+        "catno": "SED 7081",
+        "master_url": null,
+        "year": "2008",
+        "genre": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "resource_url": "https://api.discogs.com/releases/13705111",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 13705111,
+        "formats": [
+          {
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Stereo"
+            ],
+            "name": "CD"
+          }
+        ]
+      },
+      {
+        "style": [],
+        "barcode": [],
+        "thumb": "https://img.discogs.com/6J5tb3KXYF6cmeJQ2sBQOkIV49Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "title": "Shafter High Concert Band - Shafter High School",
+        "artist": "Shafter High Concert Band",
+        "type": "release",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "uri": "/Shafter-High-Concert-Band-Shafter-High-School/release/4628551",
+        "community": {
+          "want": 3,
+          "have": 1
+        },
+        "label": [
+          "Century Custom Recording Service",
+          "Century Custom Recording Service"
+        ],
+        "country": "US",
+        "cover_image": "https://img.discogs.com/3KIrpU1GYnpD5uEHKaCrYMH392s=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628551-1380953738-5199.jpeg.jpg",
+        "catno": "22157",
+        "master_url": null,
+        "year": "1965",
+        "genre": [
+          "Jazz",
+          "Pop",
+          "Classical"
+        ],
+        "resource_url": "https://api.discogs.com/releases/4628551",
+        "master_id": 0,
+        "format_quantity": 1,
+        "id": 4628551,
+        "formats": [
+          {
+            "text": "Blue",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ],
+            "name": "Vinyl"
+          }
+        ]
+      }
+    ]
+  }
+]

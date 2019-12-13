@@ -6,7 +6,7 @@ const app = express();
 const dataPath = './dane.json';
 const historyPath = './history.json';
 const morgan = require('morgan');
-let cors = require('cors');
+const cors = require('cors');
 app.use(cors());
 
 app.use(morgan('tiny'));
@@ -67,43 +67,44 @@ app.get("/history", (req, res) => {
 });
 
 app.post('/history', (req, res) => {
-  const item = req.body;
+  const incomingHistory = req.body;
   fs.readFile('./history.json', 'utf8', (err, data) => {
     if (err) {
       throw err;
     } else {
-      obj = JSON.parse(data);
-      obj.history.push(item);
-      json = JSON.stringify(obj);
-      fs.writeFile('./history.json', json, 'utf8', () => {
+      currentHistory = JSON.parse(data);
+      const joinedHistory = [...currentHistory, incomingHistory];
+      preparedToWriteHistory = JSON.stringify(joinedHistory);
+      fs.writeFile('./history.json', preparedToWriteHistory, 'utf8', () => {
         res.send('written');
       });
     }
   });
 });
 
-app.delete("/history/:id", (req, res) => {
-  const historyId = req.params.id;
-  console.log("Delete item with id: ", historyId);
+app.delete("/history", (req, res) => {
   fs.readFile('./history.json', 'utf8', (err, data) => {
     if (err) {
       throw err;
     } else {
-      const parsedArr = JSON.parse(data).history;
-      const filtered_list = parsedArr.filter(history => history !== historyId);
-      parsedArr = filtered_list;
-      if (historyResult) {
-        json = JSON.stringify(historyResult);
-        fs.writeFile('./history.json', json, 'utf8', () => {
-          res.send('deleted');
-        });
-      } else {
-        res.json({ message: `item ${itemId} doesn't exist` })
+      let arrayToBeSaved = [];
+      const parsedArr = JSON.parse(data);
+      const historyId = req.query.id;
+      if (historyId !== 'all') {
+        const found = parsedArr.find(history => history.queryId === historyId);
+        if (!found) {
+          res.json({ message: `item ${historyId} doesn't exist` });
+          return;
+        }
+        const filtered_list = parsedArr.filter(history => history.queryId !== historyId);
+        arrayToBeSaved = filtered_list;
       }
-
+      json = JSON.stringify(arrayToBeSaved);
+      fs.writeFile('./history.json', json, 'utf8', () => {
+        res.send('deleted');
+      });
     }
   });
-
 });
 
 
