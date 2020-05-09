@@ -362,6 +362,334 @@
       "master_id": 1281198,
       "type": "master",
       "id": 1281198
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/LRatqeYchjAFjN4SOEUX8e6TPBc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11778636-1522576123-7986.jpeg.jpg",
+      "title": "U2 - Boy",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "CDr"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/LRatqeYchjAFjN4SOEUX8e6TPBc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11778636-1522576123-7986.jpeg.jpg",
+      "catno": "ILPS 9646",
+      "master_url": null,
+      "year": "1980",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/LRatqeYchjAFjN4SOEUX8e6TPBc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11778636-1522576123-7986.jpeg.jpg",
+      "title": "U2 - October",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "CDr"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/fNlgUWxEWDg0drV-NXmP8TbQ_GE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7427350-1450519722-7990.jpeg.jpg",
+      "catno": "ILPS 9646",
+      "master_url": null,
+      "year": "1981",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/Yz7b-mFfAnYMRMtBveW5GYv8PLE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-786161-1587397064-3798.jpeg.jpg",
+      "title": "U2 - War",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "CDr"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/Yz7b-mFfAnYMRMtBveW5GYv8PLE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-786161-1587397064-3798.jpeg.jpg",
+      "catno": "ILPS 9733",
+      "master_url": null,
+      "year": "1983",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/PTXsL5CrhmP3t2j53N3Qo095ZF4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395330-1555593331-2137.jpeg.jpg",
+      "title": "U2 - Live 'Under A Blood Red Sky'",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "LP"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/PTXsL5CrhmP3t2j53N3Qo095ZF4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395330-1555593331-2137.jpeg.jpg",
+      "catno": "205 904",
+      "master_url": null,
+      "year": "1983",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/Yz7b-mFfAnYMRMtBveW5GYv8PLE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-786161-1587397064-3798.jpeg.jpg",
+      "title": "U2 - War",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "CDr"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/Yz7b-mFfAnYMRMtBveW5GYv8PLE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-786161-1587397064-3798.jpeg.jpg",
+      "catno": "ILPS 9733",
+      "master_url": null,
+      "year": "1983",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/gytKF0tVm2Ksd6V5iZL7W-6pGds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-204237-1173459141.jpeg.jpg",
+      "title": "U2 - The Unforgettable Fire",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "LP"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/gytKF0tVm2Ksd6V5iZL7W-6pGds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-204237-1173459141.jpeg.jpg",
+      "catno": "205 904",
+      "master_url": null,
+      "year": "1984",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/eLmB2vjqvQep2yK9RTAh_5tg4rk=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341431-1215152830.jpeg.jpg",
+      "title": "U2 - The Joshua Tree",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "LP"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/eLmB2vjqvQep2yK9RTAh_5tg4rk=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341431-1215152830.jpeg.jpg",
+      "catno": "U26",
+      "master_url": null,
+      "year": "1987",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "style": [
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "barcode": [],
+      "thumb": "https://img.discogs.com/VJ4UAUHeH5AO52hOkszjZBctoPs=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-722463-1151920797.jpeg.jpg",
+      "title": "U2 - Rattle And Hum",
+      "artist": "U2",
+      "type": "release",
+      "format": [
+        "2LP"
+      ],
+      "uri": "/Shafter-Shafter/release/7596389",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "label": [
+        "Island Records"
+      ],
+      "country": "UK",
+      "cover_image": "https://img.discogs.com/VJ4UAUHeH5AO52hOkszjZBctoPs=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-722463-1151920797.jpeg.jpg",
+      "catno": "303 400",
+      "master_url": null,
+      "year": "1988",
+      "genre": [
+        "Rock"
+      ],
+      "resource_url": "https://api.discogs.com/releases/7596389",
+      "master_id": 0,
+      "format_quantity": 1,
+      "id": 7596389,
+      "formats": [
+        {
+          "name": "LP",
+          "qty": "1"
+        }
+      ]
     }
   ]
 }
