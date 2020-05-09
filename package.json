@@ -1,5 +1,5 @@
 {
-  "name": "typescript-practice-api-server",
+  "name": "discon-api-server",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@stash.stepstone.com:7999/~puchnd01/typescript-practice-api-server.git"
+    "url": "https://github.com/dar-puch/neighborhood-map.git"
   },
   "author": "Daria",
   "license": "ISC",
